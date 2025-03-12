@@ -8,7 +8,7 @@ I'm an enthusiastic learner with a solid foundation in computer science and a ke
 
 Current Focus:
 
-I'm actively working on updating my portfolio with projects that showcase my skills. While my current repositories may not fully reflect my capabilities, I'm committed to continuous learning and improvement.
+Throughout my degree, my projects were stored locally or on FSU's servers. Consequently, I did not have many opportunities to utilize GitHub. I am actively working on updating my portfolio with projects that showcase my skills. While my current repositories may not fully reflect my capabilities, I'm committed to continuous learning and improvement.
 
 ## Skills
 
