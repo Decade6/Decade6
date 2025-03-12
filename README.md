@@ -8,7 +8,7 @@ I'm an enthusiastic learner with a solid foundation in computer science and a ke
 
 Current Focus:
 
-I'm actively working on expanding/updating my portfolio with projects that showcase my skills. While my current repositories may not fully reflect my capabilities, I'm committed to continuous learning and improvement.
+I'm actively working on updating my portfolio with projects that showcase my skills. While my current repositories may not fully reflect my capabilities, I'm committed to continuous learning and improvement.
 
 ## Skills
 
