@@ -28,4 +28,3 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 
   - LinkedIn: [Declan Murphy](https://www.linkedin.com/in/declan-murphy-b0725924b/)
 
-Thank you for visiting. I'm excited about the journey ahead in software engineering and look forward to contributing to innovative projects in this field!
